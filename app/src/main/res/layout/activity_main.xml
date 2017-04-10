@@ -10,7 +10,7 @@
         android:id="@+id/firsthabbit"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
-        android:text="엥?"
+        android:text="못 알아들었을 때"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="75dp" />
 
@@ -18,7 +18,8 @@
         android:id="@+id/secondhabbit"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
-        android:text="얌"
+        android:contentDescription="rhosc"
+        android:text="동의를 구할 때"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="134dp" />
 
@@ -26,7 +27,7 @@
         android:id="@+id/thirdhabbit"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
-        android:text="인덩?"
+        android:text="신나서 동의를 구할 때"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="195dp" />
 
@@ -34,7 +35,7 @@
         android:id="@+id/fourthhabbit"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
-        android:text="야→아↑아↓"
+        android:text="앙탈 부릴 때"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="254dp" />
 
@@ -42,7 +43,7 @@
         android:id="@+id/fifthhabbit"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
-        android:text="응? 응?"
+        android:text="상황파악 할 때"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="319dp" />
 
